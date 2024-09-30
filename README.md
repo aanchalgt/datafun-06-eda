@@ -56,20 +56,26 @@ https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv
 
 ## Overview
 ```
-This dataset contains measurements and attributes of various penguin species collected from different islands in the Antarctic region. The primary focus is on the Adelie, Chinstrap, and Gentoo penguin species. It includes key physical characteristics that can be used for ecological studies, species identification, and research related to environmental changes.
+This dataset contains measurements and attributes of various penguin species collected from different islands
+in the Antarctic region. The primary focus is on the Adelie, Chinstrap, and Gentoo penguin species.
+It includes key physical characteristics that can be used for ecological studies, species identification,and research related to environmental changes.
 ```
 
 ## Attributes
 ```
 Species: The species of the penguin (e.g., Adelie, Chinstrap, Gentoo).
+
 Island: The specific island where the penguin was observed (e.g., Torgersen, Biscoe, Dream).
+
 Bill Length (mm): The length of the penguin's bill measured in millimeters.
+
 Bill Depth (mm): The depth of the penguin's bill measured in millimeters.
+
 Flipper Length (mm): The length of the penguin's flipper measured in millimeters.
+
 Body Mass (g): The weight of the penguin measured in grams.
+
 Sex: The sex of the penguin (Male, Female, or missing data).
 ```
-
-
 
 
