@@ -1,3 +1,4 @@
+# Python Exploratory Data Analysis project
 # datafun-06-eda
 ```
 Exploring Data Analytics with Python
@@ -49,3 +50,11 @@ git commit
 git push
 ```
 
+# Dataset Description
+
+```
+Two datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests.
+
+"https://archive.ics.uci.edu/dataset/186/wine+quality"
+
+```
