@@ -78,4 +78,20 @@ Body Mass (g): The weight of the penguin measured in grams.
 Sex: The sex of the penguin (Male, Female, or missing data).
 ```
 
+## Steps for EDA: 
+```
+Data Acquisition
+Initial Data Inspection
+Initial Descriptive Statistics
+Initial Data Distribution for Numerical Columns
+Initial Data Distribution for Categorical Columns
+Initial Data Transformation and Feature Engineering
+Initial Visualizations
+Initial Storytelling and Presentation
+```
 
+## Project conclusion
+```
+This EDA highlights the essential insights into the penguins data. It is concluded that, habitat preferences,
+physical characteristics, and potential ecological factors influence the distribution of penguin species.
+```
